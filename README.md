@@ -1,6 +1,6 @@
 KarBoy2314PL/osu-artwork
 ===========
-hi there, i got permission from peppster himself to populate some osu! fanart, this fork will include whatever I'll be able to find from the osu! site news posts, sorted by contests chronologically with authors alphabetically
+hi there, i got permission from peppster himself to populate some osu! fanart, this fork will include whatever I'll be able to find from the osu! site news posts and post it to "Fanart Contests" folder, sorted by contests chronologically with authors alphabetically
 
 the purpose of this is to have resources to *eventually* make an osu! mascot skin
 
