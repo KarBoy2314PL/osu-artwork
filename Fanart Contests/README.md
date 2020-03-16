@@ -24,6 +24,7 @@ https://osu.ppy.sh/home/news/2015-01-08-fifth-official-osu-fanart-contest-result
 > Contest 06 (osu!taiko mascot, what would become Mocha)
 https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest
 https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting
+https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here
 
 > Contest 07 (Halloween 2016)
 https://osu.ppy.sh/home/news/2016-10-19-flash-fanart-contest-7-halloween
