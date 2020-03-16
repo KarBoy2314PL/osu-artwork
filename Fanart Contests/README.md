@@ -92,17 +92,17 @@ https://osu.ppy.sh/home/news/2019-07-12-summer-2019-fanart-contest
 https://osu.ppy.sh/home/news/2019-07-28-summer-2019-fanart-contest-voting-now-open
 https://osu.ppy.sh/home/news/2019-08-08-summer-2019-fanart-contest-results
 
-> Contest 21 (A Most Manic Art Contest - new osu!mania twin mascots)
+> Contest 20 (A Most Manic Art Contest - new osu!mania twin mascots)
 https://osu.ppy.sh/home/news/2019-09-06-a-most-manic-contest
 https://osu.ppy.sh/home/news/2019-10-07-most-manic-contest-voting-now-open
 https://osu.ppy.sh/home/news/2019-10-21-most-manic-art-contest-voting-results
 
-> Contest 22 (Halloween 2019)
+> Contest 21 (Halloween 2019)
 https://osu.ppy.sh/home/news/2019-10-09-halloween-fanart-contest
 https://osu.ppy.sh/home/news/2019-10-24-halloween-fanart-voting-open
 https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special
 
-> Contest 23 (Winter 2019)
+> Contest 22 (Winter 2019)
 https://osu.ppy.sh/home/news/2019-11-12-winter-2019-fanart-contest
 https://osu.ppy.sh/home/news/2019-12-03-winter-fanart-contest-voting
 https://osu.ppy.sh/home/news/2019-12-10-winter-is-here
