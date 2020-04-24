@@ -106,3 +106,8 @@ https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special
 https://osu.ppy.sh/home/news/2019-11-12-winter-2019-fanart-contest
 https://osu.ppy.sh/home/news/2019-12-03-winter-fanart-contest-voting
 https://osu.ppy.sh/home/news/2019-12-10-winter-is-here
+
+> Contest 23 (Spring 2020)
+https://osu.ppy.sh/home/news/2020-04-02-spring-indoors-2020-fanart-contest
+https://osu.ppy.sh/home/news/2020-04-16-spring-indoors-2020-voting-open
+https://osu.ppy.sh/home/news/2020-04-24-spring-indoors-2020-fanart-contest-results
